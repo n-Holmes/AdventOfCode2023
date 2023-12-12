@@ -1,2 +1,7 @@
 # Input files (different for every user)
 *.txt
+# Unused python files
+*_.py
+
+make_files.py
+template.py
